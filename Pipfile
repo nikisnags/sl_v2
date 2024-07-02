@@ -1,4 +1,0 @@
-streamlit = "*"
-pandas = ">=0.21.0"
-matplotlib= ">=3.5.1"
-numpy = "*"
